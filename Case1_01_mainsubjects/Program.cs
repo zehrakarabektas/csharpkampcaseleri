@@ -11,7 +11,6 @@ namespace Case1_01_mainsubjects
         static void Main(string[] args)
         {
             #region Yazdırma Komutları
-
             //Console.WriteLine("Merhaba Dünya");
             //Console.Write("Selam");
 

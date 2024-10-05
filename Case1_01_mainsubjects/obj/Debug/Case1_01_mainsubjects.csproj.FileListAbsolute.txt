@@ -1,0 +1,7 @@
+C:\Users\zehra\source\repos\csharpkampcaseler\Case1_01_mainsubjects\bin\Debug\Case1_01_mainsubjects.exe.config
+C:\Users\zehra\source\repos\csharpkampcaseler\Case1_01_mainsubjects\bin\Debug\Case1_01_mainsubjects.exe
+C:\Users\zehra\source\repos\csharpkampcaseler\Case1_01_mainsubjects\bin\Debug\Case1_01_mainsubjects.pdb
+C:\Users\zehra\source\repos\csharpkampcaseler\Case1_01_mainsubjects\obj\Debug\Case1_01_mainsubjects.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\csharpkampcaseler\Case1_01_mainsubjects\obj\Debug\Case1_01_mainsubjects.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\csharpkampcaseler\Case1_01_mainsubjects\obj\Debug\Case1_01_mainsubjects.exe
+C:\Users\zehra\source\repos\csharpkampcaseler\Case1_01_mainsubjects\obj\Debug\Case1_01_mainsubjects.pdb

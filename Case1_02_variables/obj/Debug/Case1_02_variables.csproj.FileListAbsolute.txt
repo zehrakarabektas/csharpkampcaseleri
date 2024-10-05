@@ -1,7 +1,0 @@
-C:\Users\zehra\source\repos\csharpkampcaseler\Case1_02_variables\bin\Debug\Case1_02_variables.exe.config
-C:\Users\zehra\source\repos\csharpkampcaseler\Case1_02_variables\bin\Debug\Case1_02_variables.exe
-C:\Users\zehra\source\repos\csharpkampcaseler\Case1_02_variables\bin\Debug\Case1_02_variables.pdb
-C:\Users\zehra\source\repos\csharpkampcaseler\Case1_02_variables\obj\Debug\Case1_02_variables.csproj.AssemblyReference.cache
-C:\Users\zehra\source\repos\csharpkampcaseler\Case1_02_variables\obj\Debug\Case1_02_variables.csproj.CoreCompileInputs.cache
-C:\Users\zehra\source\repos\csharpkampcaseler\Case1_02_variables\obj\Debug\Case1_02_variables.exe
-C:\Users\zehra\source\repos\csharpkampcaseler\Case1_02_variables\obj\Debug\Case1_02_variables.pdb
